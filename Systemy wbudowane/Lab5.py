@@ -1,3 +1,5 @@
+#Napisz program generujący zapytanie HTTP GET do dowolnego serwera i zachowujący odpowiedź w
+#pliku.
 import requests
 
 f = open("plik.txt", "w")
